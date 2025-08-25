@@ -8,7 +8,7 @@ body {
 }
 .form-container {
   background-color: aquamarine;
-    height: 600px;
+    height: 710px;
      padding: 1rem 0;
     color: #010116;
     width: 30vw;
@@ -73,3 +73,4 @@ div.sign {
   font-weight: bold;
   text-align: center;
 }
+
