@@ -4,7 +4,7 @@
 }
    
 body {
-  background-color: rgb(95, 18, 167);
+  background-color: white;
 }
 .form-container {
   background-color: aquamarine;
@@ -73,4 +73,5 @@ div.sign {
   font-weight: bold;
   text-align: center;
 }
+
 
